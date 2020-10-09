@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ken" label="Ken" language="en" table="ken1">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ken</element>
+            <help/>
+            <hint/>
+            <label>Ken</label>
+            <language>en</language>
+            <name>ken1</name>
+            <plural>Kens</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-09 19:12:20</sys_created_on>
+            <sys_id>11e93b7c53b7101071a3ddeeff7b12e7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Ken</sys_name>
+            <sys_package display_value="ken1" source="07a9f37c53b7101071a3ddeeff7b12d0">07a9f37c53b7101071a3ddeeff7b12d0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ken2">562a3f7c53b7101071a3ddeeff7b12ef</sys_scope>
+            <sys_update_name>sys_documentation_ken1_ken_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-09 19:14:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ken2">562a3f7c53b7101071a3ddeeff7b12ef</claim_owner_scope>
+        <claim_timestamp>1750ec8ceaf0000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_ken1_ken_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>ken2</previous_claim_name>
+        <previous_claim_scope>562a3f7c53b7101071a3ddeeff7b12ef</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-09 19:14:02</sys_created_on>
+        <sys_id>d24a7f7c53b7101071a3ddeeff7b12a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-09 19:14:02</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="ken2">562a3f7c53b7101071a3ddeeff7b12ef</claim_owner_scope>
+        <claim_timestamp>1750ec8ce980000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_ken1_ken_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>ken1</previous_claim_name>
+        <previous_claim_scope>07a9f37c53b7101071a3ddeeff7b12d0</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-09 19:14:02</sys_created_on>
+        <sys_id>964a7f7c53b7101071a3ddeeff7b12a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-09 19:14:02</sys_updated_on>
+    </sys_claim>
+</record_update>
