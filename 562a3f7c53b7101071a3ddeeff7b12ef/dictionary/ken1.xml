@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Ken1" max_length="40" name="ken1" type="collection">
         <element label="Ken" max_length="80" name="ken" type="string"/>
+        <element label="Ken2" max_length="40" name="ken2" type="string"/>
     </element>
 </database>
